@@ -2,7 +2,10 @@
   {
     "version": "ssa_correction_preview",
     "title": "PR Preview ssa_correction",
-    "aliases": []
+    "aliases": [],
+    "properties": {
+      "hidden": "true"
+    }
   },
   {
     "version": "remove-experimental-modules_preview",
